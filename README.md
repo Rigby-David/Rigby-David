@@ -8,6 +8,5 @@
 Rigby-David/Rigby-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rigby-David)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rigby-David)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rigby-David)](https://github.com/anuraghazra/github-readme-stats)
