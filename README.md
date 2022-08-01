@@ -1,3 +1,5 @@
+I'm a Full Stack Software Engineer with a technical foundation in JavaScript and React. 
+
 - 👋 Hi, I’m @Rigby-David
 - 👀 I’m interested in coding and software development.
 - 🌱 I’m currently learning how to code and become a software developer.
