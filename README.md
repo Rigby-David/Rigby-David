@@ -10,6 +10,7 @@ I'm a Full Stack Software Engineer with a technical foundation in JavaScript and
 Rigby-David/Rigby-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+My Stats and Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rigby-David)](https://github.com/anuraghazra/github-readme-stats)
 
