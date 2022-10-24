@@ -1,9 +1,10 @@
-**About Me**
+**About Me** <br />
+
+Hi, I’m David Rigby <br />
+
+He/Him pronouns <br />
 
 I'm a Full Stack Software Engineer with a technical foundation in JavaScript and React. 
-
-Hi, I’m @Rigby-David
-He/Him pronouns <br />
 
 I'm a graduate of Alchemy Code Lab with over 1,000 hours developing full-stack applications <br />
 
