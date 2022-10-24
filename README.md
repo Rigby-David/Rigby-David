@@ -2,12 +2,14 @@
 
 I'm a Full Stack Software Engineer with a technical foundation in JavaScript and React. 
 
-- 👋 Hi, I’m @Rigby-David
-- 🧔 He/Him pronouns
-- 👀 I’m interested in coding and software development.
-- 🌱 I’m currently learning how to code and become a software developer.
-- 💞️ I’m looking to collaborate on anything regarding the tech industry. While my ambition is in coding and software development, I am curious to learn as much as I can.
-- 📫 How to reach me: Message me at [Linkedin](https://www.linkedin.com/in/david-rigby2022)
+Hi, I’m @Rigby-David
+He/Him pronouns <br />
+
+I'm a graduate of Alchemy Code Lab with over 1,000 hours developing full-stack applications <br />
+
+<strong>How to reach me:</strong> <br />
+[Linkedin](https://www.linkedin.com/in/david-rigby2022) <br />
+rigbyd335@gmail.com
 
 <!---
 Rigby-David/Rigby-David is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
